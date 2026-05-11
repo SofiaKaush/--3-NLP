@@ -50,4 +50,4 @@ python app_v4.py
 В приложениях реализована возможность ввода или изменения API-ключа прямо через веб-интерфейс, что удобно для тестирования без перезапуска сервера. Для генерации изображений в бесплатных режимах используется сервис Pollinations.ai.
 
 
-<img width="704" height="585" alt="image" src="https://github.com/user-attachments/assets/f9ea5d47-dd46-4d92-8adc-6832fb66065e" />
+<img width="707" height="584" alt="image" src="https://github.com/user-attachments/assets/c57a115e-e505-4f1e-b8ff-f0f131d86ed2" />
